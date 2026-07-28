@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AyaEsmaeel123.github.io/weather/static/css/main.80eef715.css",
+    "main.js": "/AyaEsmaeel123.github.io/weather/static/js/main.fe25bfc8.js",
+    "static/js/453.5d895c44.chunk.js": "/AyaEsmaeel123.github.io/weather/static/js/453.5d895c44.chunk.js",
+    "static/media/Harmattan-Medium.ttf": "/AyaEsmaeel123.github.io/weather/static/media/Harmattan-Medium.a470536ebe873623d867.ttf",
+    "static/media/Harmattan-Regular.ttf": "/AyaEsmaeel123.github.io/weather/static/media/Harmattan-Regular.7048103b910e548b0cf3.ttf",
+    "static/media/Harmattan-SemiBold.ttf": "/AyaEsmaeel123.github.io/weather/static/media/Harmattan-SemiBold.961997d0534458d8cfa1.ttf",
+    "static/media/Harmattan-Bold.ttf": "/AyaEsmaeel123.github.io/weather/static/media/Harmattan-Bold.5b072e5c163739c90586.ttf",
+    "index.html": "/AyaEsmaeel123.github.io/weather/index.html",
+    "main.80eef715.css.map": "/AyaEsmaeel123.github.io/weather/static/css/main.80eef715.css.map",
+    "main.fe25bfc8.js.map": "/AyaEsmaeel123.github.io/weather/static/js/main.fe25bfc8.js.map",
+    "453.5d895c44.chunk.js.map": "/AyaEsmaeel123.github.io/weather/static/js/453.5d895c44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80eef715.css",
+    "static/js/main.fe25bfc8.js"
+  ]
+}
