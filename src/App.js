@@ -11,6 +11,7 @@ import {
   Divider,
   Stack,
 } from "@mui/material";
+
 import { useTranslation } from 'react-i18next';
 import CloudIcon from "@mui/icons-material/Cloud";
 import axios from "axios";
@@ -43,7 +44,8 @@ function App() {
   });
   const [locale,setLocale]=useState("ar");
 
-  function handleLanguageClick(){
+
+ function handleLanguageClick(){
     if(locale==="en"){
     setLocale("ar");
     i18n.changeLanguage("ar");
@@ -56,6 +58,8 @@ function App() {
     }
     setDataAndTime(moment().format('MMMM Do YYYY, h:mm:ss a'));
   }
+ 
+   
 
   useEffect(()=>{
    i18n.changeLanguage(locale);
@@ -127,8 +131,11 @@ function App() {
   }, []);
 
    const direct=locale=="ar"?"rtl":"ltr";
-   
+
   return (
+
+    
+
     <ThemeProvider theme={theme}>
       <Box
         sx={{
